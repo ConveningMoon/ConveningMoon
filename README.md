@@ -1,16 +1,38 @@
-## Hi there 👋
+# James Dylan Vergara
 
-<!--
-**ConveningMoon/ConveningMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer | React / TypeScript | React Native  
+6+ years of commercial experience building scalable web and mobile applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building production-ready SPA and cross-platform mobile applications using React, TypeScript and React Native.  
+
+I have experience designing frontend architecture, integrating REST APIs, optimizing performance and working in team-based development environments.
+
+Currently open to remote Frontend or React Native positions.
+
+## 🛠 Tech Stack
+
+- React
+- React Native
+- TypeScript
+- Redux / Zustand
+- Next.js
+- REST API
+- Docker
+- Git
+- Python
+- Vite
+- Tailwind CSS
+
+## 📌 Highlighted Projects
+
+- Production-ready React dashboards
+- Cross-platform mobile apps (iOS & Android)
+- AI-integrated applications
+- SaaS-oriented frontend architecture
+
+## 📫 Contact
+
+- Telegram: @DylanVergara
+- Email: dj.vergara@hotmail.com
